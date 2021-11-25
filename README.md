@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/10377550/143415273-10cff732-75f4-40ce-bc09-c3c6c2aeed95.png)
-📕 책 격파하기 
 
 ## 2021
 | 카테고리 | 제목 | 저자 | 완독일 | 
