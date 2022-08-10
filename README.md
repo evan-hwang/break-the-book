@@ -3,7 +3,7 @@
 ## 2021
 | 카테고리 | 제목 | 저자 | 완독일 | 
 | - | - | - | - |
-| OOP | 클린 코드 | 로버트 C. 마틴 | 2021.10.3 |
+| Refactoring | 클린 코드 | 로버트 C. 마틴 | 2021.10.3 |
 | Infra | 카프카, 데이터 플랫폼의 최강자 | 고승범, 공용준 | 2021.10.11 |
 | OS | 운영체제와 정보 기술의 원리 | 반효경 | 2021.10.28 |
 | Monitoring | [scouter를 활용한 시스템 장애 진단 및 해결 노하우 자바 트러블슈팅](https://github.com/quick-starters/performance-monitoring) | 이상민 | 2021.11.04 |
@@ -24,6 +24,7 @@
 | Infra | [컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://github.com/quick-starters/k8s-study) | 조훈 | 2022.06.24 |
 | Refactoring | 리팩토링 | 마틴 파울러 | 2022.07.18 |
 | Architecture | [헤드 퍼스트 디자인 패턴](https://github.com/quick-starters/design-pattern) | 에릭 프리먼 외 | 2022.07.26 |
+| Architecture | [마이크로서비스 아키텍처 구축](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968483417) | 샘 뉴먼 | 진행중 |
 | Reactive | 실전! 스프링 5를 활용한 리액티브 프로그래밍 | 올레 도쿠카 | 진행중 |
 | Architecture | 클린 아키텍처 | 로버트 C. 마틴 | 구입 |
 | OOP | 엘레강트 오브젝트 | 예거 부가옌코 | 구입 |
