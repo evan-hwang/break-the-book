@@ -25,6 +25,7 @@
 | Refactoring | 리팩토링 | 마틴 파울러 | 2022.07.18 |
 | Architecture | [헤드 퍼스트 디자인 패턴](https://github.com/quick-starters/design-pattern) | 에릭 프리먼 외 | 2022.07.26 |
 | Architecture | [마이크로서비스 아키텍처 구축](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968483417) | 샘 뉴먼 | 2022.08.30 |
+| Writing | 개발자의 글쓰기 | 김철수 | 진행중 |
 | Reactive | 실전! 스프링 5를 활용한 리액티브 프로그래밍 | 올레 도쿠카 | 진행중 |
 | Architecture | 클린 아키텍처 | 로버트 C. 마틴 | 구입 |
 | OOP | 엘레강트 오브젝트 | 예거 부가옌코 | 구입 |
