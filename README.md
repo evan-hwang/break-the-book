@@ -27,6 +27,8 @@
 | Architecture | [마이크로서비스 아키텍처 구축](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968483417) | 샘 뉴먼 | 2022.08.30 |
 | Writing | 개발자의 글쓰기 | 김철수 | 진행중 |
 | Reactive | 실전! 스프링 5를 활용한 리액티브 프로그래밍 | 올레 도쿠카 | 진행중 |
+| Growth | 함께자라기 애자일로 가는 길 | 김창준 | 진행중 |
+| Security | 스프링 시큐리티 인 액션 | 로렌티우 스필카 | 진행중 |
 | Architecture | 클린 아키텍처 | 로버트 C. 마틴 | 구입 |
 | OOP | 엘레강트 오브젝트 | 예거 부가옌코 | 구입 |
 | Concurrency | 멀티 코어를 100% 활용하는 자바 병렬 프로그래밍 | 브라이언 게츠 | 구입 |
